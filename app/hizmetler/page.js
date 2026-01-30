@@ -65,7 +65,7 @@ export default function Services() {
       icon: Gamepad2,
       title: 'FiveM Web Tasarımları',
       description: 'FiveM sunucunuz için özel tasarlanmış, modern ve işlevsel web siteleri. Oyuncu paneli, market sistemi ve daha fazlası.',
-      image: 'https://mir-s3-cdn-cf.behance.net/projects/404/60d781240477301.Y3JvcCwxNDM1LDExMjIsMjM4LDA.png',
+      image: 'https://mir-s3-cdn-cf.behance.net/projects/404/ddfd3e218542209.Y3JvcCwxOTIwLDE1MDEsMCww.jpg',
       color: 'from-purple-500 to-pink-500',
       features: [
         'Sunucuya Özel Tema Tasarımı',
