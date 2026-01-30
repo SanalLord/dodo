@@ -29,7 +29,7 @@ export default function Services() {
       icon: Globe,
       title: 'Kurumsal Web Siteleri',
       description: 'Markanızı en iyi şekilde yansıtan, profesyonel ve modern kurumsal web siteleri ile dijital dünyada fark yaratın.',
-      image: 'https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg',
+      image: '',
       color: 'from-[#ff9625] to-orange-600',
       features: [
         'Kurumsal Kimliğe Özel Tasarım',
@@ -46,16 +46,17 @@ export default function Services() {
           name: 'Başlangıç',
           price: '₺2.999',
           features: ['5 Sayfa', 'Temel SEO', 'İletişim Formu', '1 Ay Destek']
-        },
-        {
-          name: 'Profesyonel',
-          price: '₺5.999',
-          features: ['10 Sayfa', 'Gelişmiş SEO', 'Blog Sistemi', '3 Ay Destek', 'Admin Paneli'],
           popular: true
         },
         {
+          name: 'Profesyonel',
+          price: '₺3.999',
+          features: ['10 Sayfa', 'Gelişmiş SEO', 'Blog Sistemi', '3 Ay Destek', 'Admin Paneli'],
+          popular: false
+        },
+        {
           name: 'Premium',
-          price: '₺9.999',
+          price: '₺6.999',
           features: ['Sınırsız Sayfa', 'Pro SEO', 'Özel Özellikler', '6 Ay Destek', 'Özel Tasarım']
         }
       ]
@@ -65,7 +66,7 @@ export default function Services() {
       icon: Gamepad2,
       title: 'FiveM Web Tasarımları',
       description: 'FiveM sunucunuz için özel tasarlanmış, modern ve işlevsel web siteleri. Oyuncu paneli, market sistemi ve daha fazlası.',
-      image: 'https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg',
+      image: 'https://forum-cfx-re.akamaized.net/optimized/4X/0/d/0/0d02e3b66a236355e214fa50e7b6a3966d1aa4b6_2_1024x576.jpeg',
       color: 'from-purple-500 to-pink-500',
       features: [
         'Sunucuya Özel Tema Tasarımı',
@@ -91,7 +92,7 @@ export default function Services() {
         },
         {
           name: 'Ultimate',
-          price: '₺14.999',
+          price: '₺9.999',
           features: ['Tüm Özellikler', 'Özel Eklentiler', 'API Geliştirme', '1 Yıl Destek', 'Benzersiz Tasarım']
         }
       ]
@@ -101,7 +102,7 @@ export default function Services() {
       icon: ShoppingCart,
       title: 'Minecraft Web Mağaza',
       description: 'Minecraft sunucunuz için profesyonel e-ticaret çözümleri. Otomatik ürün teslimatı ve detaylı raporlama sistemi.',
-      image: 'https://images.pexels.com/photos/7438100/pexels-photo-7438100.jpeg',
+      image: 'https://i.ytimg.com/vi/u5F0UCSfJIc/maxresdefault.jpg',
       color: 'from-green-500 to-emerald-500',
       features: [
         'Otomatik Ürün Teslimat Sistemi',
@@ -116,7 +117,7 @@ export default function Services() {
       packages: [
         {
           name: 'Starter',
-          price: '₺4.499',
+          price: '₺5.999',
           features: ['Mağaza Sistemi', 'Ödeme Entegrasyonu', 'Temel Admin Panel', '2 Ay Destek']
         },
         {
@@ -127,7 +128,7 @@ export default function Services() {
         },
         {
           name: 'Enterprise',
-          price: '₺16.999',
+          price: '₺11.999',
           features: ['Çoklu Sunucu', 'API Entegrasyonu', 'Özel Özellikler', '1 Yıl Destek', 'Priority Support']
         }
       ]
