@@ -70,7 +70,7 @@ export default function Home() {
     {
       title: 'FiveM Roleplay Sunucusu',
       category: 'FiveM Web Tasarım',
-      image: 'https://forum-cfx-re.akamaized.net/optimized/4X/0/d/0/0d02e3b66a236355e214fa50e7b6a3966d1aa4b6_2_1024x576.jpeg',
+      image: 'https://mir-s3-cdn-cf.behance.net/projects/404/ddfd3e218542209.Y3JvcCwxOTIwLDE1MDEsMCww.jpg',
       description: 'Tam özellikli FiveM roleplay sunucusu web sitesi'
     },
     {
