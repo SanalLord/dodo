@@ -60,9 +60,9 @@ export default function Home() {
   ]
 
   const stats = [
-    { icon: Users, number: '500+', label: 'Mutlu Müşteri' },
-    { icon: Award, number: '1000+', label: 'Tamamlanan Proje' },
-    { icon: TrendingUp, number: '99%', label: 'Müşteri Memnuniyeti' },
+    { icon: Users, number: '50+', label: 'Mutlu Müşteri' },
+    { icon: Award, number: '75+', label: 'Tamamlanan Proje' },
+    { icon: TrendingUp, number: '95%', label: 'Müşteri Memnuniyeti' },
     { icon: Zap, number: '7/24', label: 'Destek Hizmeti' }
   ]
 
