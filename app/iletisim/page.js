@@ -82,8 +82,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'E-posta',
-      value: 'info@phobeus.com',
-      link: 'mailto:info@phobeus.com',
+      value: 'phobeusweb@gmail.com',
+      link: 'mailto:phobeusweb@gmail.com',
       color: 'from-[#ff9625] to-orange-600'
     },
     {
