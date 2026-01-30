@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { ArrowRight, Code, Gamepad2, ShoppingCart, Globe, Sparkles, Zap, Award, Users, TrendingUp } from 'lucide-react'
+import { ArrowRight, Code, Gamepad2, ShoppingCart, Globe, Zap, Award, Users, TrendingUp } from 'lucide-react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
@@ -159,7 +159,6 @@ export default function Home() {
           >
             <motion.div variants={fadeInUp} className="mb-6">
               <span className="inline-block px-6 py-2 bg-gradient-to-r from-[#ff9625] to-orange-600 rounded-full text-sm font-semibold tracking-wide uppercase shadow-lg shadow-orange-500/50">
-                <Sparkles className="inline-block w-4 h-4 mr-2" />
                 Profesyonel Web Çözümleri
               </span>
             </motion.div>
