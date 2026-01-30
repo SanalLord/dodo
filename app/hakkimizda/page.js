@@ -65,20 +65,20 @@ export default function About() {
     {
       name: 'DodsGudinne',
       role: 'Kurucu & Lead Developer',
-      image: 'https://images.unsplash.com/photo-1729520126776-2235a6baa1f5',
+      image: 'https://miro.medium.com/1*WxaPQoonUZLcPCISd6WrnQ.jpeg',
       description: '10+ yıl deneyimli full-stack geliştirici'
     },
     {
-      name: 'Luffy S.',
-      role: 'Project Leader & Support Leader',
+      name: 'Yahya S.',
+      role: 'Project Leader & Customer Support',
       image: 'https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg',
-      description: 'Kullanıcı deneyimi odaklı modern tasarımlar'
+      description: 'Müşteri Destek Ekibi Yöneticisi'
     },
     {
       name: 'Arda D.',
       role: 'Support Leader',
       image: 'https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg',
-      description: 'Ölçeklenebilir ve güvenli backend sistemleri'
+      description: 'Genel Destek Yöneticisi'
     }
   ]
 
