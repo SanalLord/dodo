@@ -29,7 +29,7 @@ export default function Services() {
       icon: Globe,
       title: 'Kurumsal Web Siteleri',
       description: 'Markanızı en iyi şekilde yansıtan, profesyonel ve modern kurumsal web siteleri ile dijital dünyada fark yaratın.',
-      image: '',
+      image: 'https://www.pixelturk.net/assets/images/media/e-ticaret-sitesi-3.jpg',
       color: 'from-[#ff9625] to-orange-600',
       features: [
         'Kurumsal Kimliğe Özel Tasarım',
