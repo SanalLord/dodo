@@ -76,7 +76,7 @@ export default function Home() {
     {
       title: 'E-Ticaret Platformu',
       category: 'Kurumsal Web',
-      image: 'https://www.sentezbilisim.com/wp-content/uploads/2025/03/eticaret-website-tasarimi-2026-1024x887.webp',
+      image: 'https://www.pixelturk.net/assets/images/media/e-ticaret-sitesi-3.jpg',
       description: 'Modern ve kullanıcı dostu e-ticaret çözümü'
     },
     {
