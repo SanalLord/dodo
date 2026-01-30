@@ -174,7 +174,6 @@ export default function Services() {
     { name: 'Next.js', icon: Code },
     { name: 'React', icon: Code },
     { name: 'Node.js', icon: Database },
-    { name: 'MongoDB', icon: Database },
     { name: 'Tailwind CSS', icon: Sparkles },
     { name: 'AWS', icon: Cloud },
     { name: 'TypeScript', icon: Code },
