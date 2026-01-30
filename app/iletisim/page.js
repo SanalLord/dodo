@@ -89,7 +89,7 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Telefon',
-      value: '+90 (XXX) XXX XX XX',
+      value: '+90 530 785 41 66',
       link: 'tel:+90XXXXXXXXXX',
       color: 'from-purple-500 to-pink-500'
     },
