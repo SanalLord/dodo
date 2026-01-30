@@ -83,8 +83,8 @@ export default function About() {
   ]
 
   const stats = [
-    { number: '500+', label: 'Tamamlanan Proje' },
-    { number: '350+', label: 'Mutlu Müşteri' },
+    { number: '75+', label: 'Tamamlanan Proje' },
+    { number: '50+', label: 'Mutlu Müşteri' },
     { number: '5+', label: 'Yıllık Deneyim' },
     { number: '24/7', label: 'Destek' }
   ]
