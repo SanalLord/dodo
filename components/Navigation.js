@@ -22,6 +22,7 @@ export default function Navigation() {
     { href: '/', label: 'Ana Sayfa' },
     { href: '/hakkimizda', label: 'Hakkımızda' },
     { href: '/hizmetler', label: 'Hizmetler' },
+    { href: '/neden-biz', label: 'Neden Biz?' },
     { href: '/iletisim', label: 'İletişim' },
   ]
 
