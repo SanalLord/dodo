@@ -46,13 +46,12 @@ export default function Services() {
           name: 'Başlangıç',
           price: '₺2.999',
           features: ['5 Sayfa', 'Temel SEO', 'İletişim Formu', '1 Ay Destek']
-          popular: true
         },
         {
           name: 'Profesyonel',
           price: '₺3.999',
           features: ['10 Sayfa', 'Gelişmiş SEO', 'Blog Sistemi', '3 Ay Destek', 'Admin Paneli'],
-          popular: false
+          popular: true
         },
         {
           name: 'Premium',
