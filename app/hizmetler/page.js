@@ -29,7 +29,7 @@ export default function Services() {
       icon: Globe,
       title: 'Kurumsal Web Siteleri',
       description: 'Markanızı en iyi şekilde yansıtan, profesyonel ve modern kurumsal web siteleri ile dijital dünyada fark yaratın.',
-      image: 'https://www.pixelturk.net/assets/images/media/e-ticaret-sitesi-3.jpg',
+      image: 'https://csweb.com.tr/storage/2025/09/Dorm-Food-Web-site-tasarim-yazilim-Seo-Google-Business-Manager--1024x683.webp',
       color: 'from-[#ff9625] to-orange-600',
       features: [
         'Kurumsal Kimliğe Özel Tasarım',
