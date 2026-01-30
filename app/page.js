@@ -70,7 +70,7 @@ export default function Home() {
     {
       title: 'FiveM Roleplay Sunucusu',
       category: 'FiveM Web Tasarım',
-      image: 'https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg',
+      image: 'https://forum-cfx-re.akamaized.net/optimized/4X/0/d/0/0d02e3b66a236355e214fa50e7b6a3966d1aa4b6_2_1024x576.jpeg',
       description: 'Tam özellikli FiveM roleplay sunucusu web sitesi'
     },
     {
@@ -82,7 +82,7 @@ export default function Home() {
     {
       title: 'Minecraft Survival Mağaza',
       category: 'Minecraft Web',
-      image: 'https://images.pexels.com/photos/7438100/pexels-photo-7438100.jpeg',
+      image: 'https://i.ytimg.com/vi/u5F0UCSfJIc/maxresdefault.jpg',
       description: 'Otomatik teslimat sistemli Minecraft mağazası'
     }
   ]
