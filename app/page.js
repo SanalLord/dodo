@@ -89,19 +89,19 @@ export default function Home() {
 
   const testimonials = [
     {
-      name: 'Ahmet Y.',
+      name: 'Serkan Y.',
       role: 'FiveM Sunucu Sahibi',
       content: 'PhobeuS ekibi ile çalışmak harikaydı. FiveM sitemiz tam istediğimiz gibi oldu. Profesyonel ve hızlı hizmet!',
       rating: 5
     },
     {
-      name: 'Mehmet K.',
+      name: 'Bora S.',
       role: 'Minecraft Sunucu Yöneticisi',
       content: 'Minecraft mağazamız için yaptıkları site muhteşem. Otomatik teslimat sistemi sorunsuz çalışıyor. Teşekkürler!',
       rating: 5
     },
     {
-      name: 'Zeynep A.',
+      name: 'Engin Ş.',
       role: 'İşletme Sahibi',
       content: 'Kurumsal web sitemiz çok profesyonel görünüyor. SEO çalışmaları sayesinde Google\'da üst sıralardayız!',
       rating: 5
