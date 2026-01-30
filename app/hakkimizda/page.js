@@ -63,20 +63,20 @@ export default function About() {
 
   const team = [
     {
-      name: 'Ahmet Yılmaz',
+      name: 'DodsGudinne',
       role: 'Kurucu & Lead Developer',
-      image: 'https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg',
+      image: 'https://images.unsplash.com/photo-1729520126776-2235a6baa1f5',
       description: '10+ yıl deneyimli full-stack geliştirici'
     },
     {
-      name: 'Ayşe Demir',
-      role: 'UI/UX Tasarımcı',
+      name: 'Luffy S.',
+      role: 'Project Leader & Support Leader',
       image: 'https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg',
       description: 'Kullanıcı deneyimi odaklı modern tasarımlar'
     },
     {
-      name: 'Mehmet Kaya',
-      role: 'Backend Developer',
+      name: 'Arda D.',
+      role: 'Support Leader',
       image: 'https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg',
       description: 'Ölçeklenebilir ve güvenli backend sistemleri'
     }
